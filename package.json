@@ -1,16 +1,22 @@
 {
-  "name": "judi",
-  "version": "1.0.0",
-  "description": "",
+  "name": "injoy",
+  "version": "0.0.2-0",
+  "description": "A node package manager",
   "main": "index.js",
   "bin": {
-    "judi": "./bin/index.js",
-    "jd": "./bin/index.js"
+    "joy": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "npm",
+    "yarn",
+    "pnpm",
+    "node",
+    "package",
+    "manager"
+  ],
   "author": "Yvan Zhu",
   "license": "ISC"
 }
