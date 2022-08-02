@@ -17,6 +17,14 @@
     "package",
     "manager"
   ],
-  "author": "Yvan Zhu",
-  "license": "ISC"
+  "author": "Yvan Zhu <i@zhuyunfeng.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/fyzhu/injoy#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyzhu/injoy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fyzhu/injoy/issues"
+  }
 }
